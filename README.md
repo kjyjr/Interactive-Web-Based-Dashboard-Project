@@ -19,7 +19,13 @@ Two HTML files were then prepared: an 'index.html' file to set up the dashboard 
 
 To access the interactive map, click on the image of the map on the dashboard. The map consists of groups of markers that represent museums within an area, and can be used to gain an idea of the number of museums found in a specific place. There are three different views that you can choose between for the map. Once you have zoomed in and selected a singular marker, the museum name, type, locale (1-City, 2-Suburb, 3-Town, and 4-Rural), and revenue will appear in a popup.
 
+![alt text](image.png)
+
 Underneath the map is a dropdown box with a list of states to choose from. Below that is a pair of charts that display information for the selected state. The bar chart shows the top ten museums with the highest revenue in a state. The revenue of each museum is given in dollars. The bar chart also dynamically colors each displayed bar based on the museum NCES assigned locale code, which informs the user of the type of territory. The pie chart shows the percentage of each type of museum in a state, which museum types are the most common and which are the least.
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ## Ethical Considerations
 
